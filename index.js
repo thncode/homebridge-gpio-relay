@@ -12,7 +12,7 @@ module.exports = function(homebridge) {
     Service = homebridge.hap.Service;
     Characteristic = homebridge.hap.Characteristic;
 
-    homebridge.registerAccessory('homebridge-gpio-relay', 'relay', RelayAccessory);
+    homebridge.registerAccessory('homebridge-relay-switch', 'relay', RelayAccessory);
 }
 
 function RelayAccessory(log, config) {

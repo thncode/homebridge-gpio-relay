@@ -1,16 +1,16 @@
 {
-  "_from": "homebridge-gpio-relay",
-  "_id": "homebridge-gpio-relay@1.0.0",
+  "_from": "homebridge-relay-switch",
+  "_id": "homebridge-relay-switch@1.0.0",
   "_inBundle": false,
   "_integrity": "sha1-3F4cLjmpNGHXw75Us5brXgQylzQ=",
-  "_location": "/homebridge-gpio-relay",
+  "_location": "/homebridge-relay-switch",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "homebridge-gpio-relay",
-    "name": "homebridge-gpio-relay",
-    "escapedName": "homebridge-gpio-relay",
+    "raw": "homebridge-relay-switch",
+    "name": "homebridge-relay-switch",
+    "escapedName": "homebridge-relay-switch",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -18,9 +18,9 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/homebridge-gpio-relay/-/homebridge-gpio-relay-1.0.7.tgz",
+  "_resolved": "https://registry.npmjs.org/homebridge-relay-switch/-/homebridge-relay-switch-1.0.7.tgz",
   "_shasum": "dc5e1c2e39a93461d7c3be54b396eb5e04329734",
-  "_spec": "homebridge-gpio-relay",
+  "_spec": "homebridge-relay-switch",
   "_where": "/home/pi",
   "author": {
     "name": "Thomas Nemec"
@@ -49,9 +49,9 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "homebridge-gpio-relay",
+  "name": "homebridge-relay-switch",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.7"
+  "version": "1.0.0"
 }
