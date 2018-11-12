@@ -1,2 +1,2 @@
-# homebridge-gpio-relay
-based on Niklas von Weihe's homebridge plugin which I had to extend
+# homebridge-relay-switch
+based on Niklas von Weihe's homebridge-gpio-relay plugin which I had to extend
